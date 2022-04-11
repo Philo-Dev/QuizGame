@@ -1,0 +1,6 @@
+#moneyList .list-cell {
+    -fx-alignment: center;
+}
+.list-cell { -fx-text-fill: #FFD700;}
+.list-cell { -fx-font-weight: bold;}
+.list-cell { -fx-font-size: 15.5px;}
